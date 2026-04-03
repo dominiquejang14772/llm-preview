@@ -16,3 +16,4 @@ Notes and usage details for llm-preview.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- link the usage section
