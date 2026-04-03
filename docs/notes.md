@@ -15,3 +15,4 @@ Notes and usage details for llm-preview.
 - add a note about the defaults
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
